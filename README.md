@@ -80,9 +80,9 @@ That became >> "Imagination is the only limitation" in future iterations and was
 
 My lifetime dogma:
 
-"Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows not victory nor defeat." THEODORE ROOSEVELT, “THE STRENUOUS LIFE” [10 April 1899]
+"Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows not victory nor defeat." TEDDY ROOSEVELT, THE STRENUOUS LIFE, 10 April 1899
 
-// *******And... Most Importantly... Never Give Up! Never Surrender!********* //
+// *******And... Most Importantly... Never Give Up! Never Surrender!******* //
 
 ## How I Can Help / Give ##
 
