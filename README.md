@@ -2,7 +2,7 @@
 
 **Technologist | Founder | Strategic Leader | Human**
 
-I like to dream, design and build shit. Everything Digital. Physical Building. Teams. Businesses that make lots of money and Non-Profits that improve my community. 
+I like to dream, design and build shit. Everything Digital. Physical Buildings. Teams. Businesses that make lots of money and Non-Profits that improve my community. 
 
 Started in early 2000s LAMP stack dev, did cloud and cybersecurity before it was cool. Accidentally built an MSP that became a MSSP and rolled it into a national PE-backed platform. Now advise startups, preach on cybersecurity and business culture (yes, they can be synergistic. yes, I used synergistic). Exploring the future of AI and Innovation leadership.
 
