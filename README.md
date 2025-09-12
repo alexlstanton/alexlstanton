@@ -22,7 +22,7 @@ This exists to help collaborators, founders, and future partners get a sense of 
 
   **Passions:** Family. Education. Running stupid distances. Summitting silly high mountains. Sailing and diving. Garden & Bees. Cooking.
 
-  **Physical Stuff:** Building science nerd. Amatuer architect. I design physical buildings, furniture, etc. and run construction projects end-to-end, both commercial and residential. I believe physical spaces should be beautiful on the outside and the "inside"... leaving behind efficient buildings that inspire and last for 100+ years. It's a passion++.
+  **Physical Stuff:** Building science nerd. Amateur architect. I design physical buildings, furniture, etc. and run construction projects end-to-end, both commercial and residential. I believe physical spaces should be beautiful on the outside and the "inside"... leaving behind efficient buildings that inspire and last for 100+ years. It's a passion++.
 
   **Aspiration:** Improve the lives of people along the HUMAN<>HUMAN chain, with everything I touch.
 
@@ -30,7 +30,7 @@ This exists to help collaborators, founders, and future partners get a sense of 
 
   **Think Big:** Entrepreneurial mindset required, no matter how established we are, there's always a hint of a startup vibe. Think big but bring it back to actionable sprints. We're not boiling oceans. We don't just talk. We do.
 
-   **Foundations:** I'm ruthless about foundational thinking. We build frameworks, methodologies and systems that scale and adapt. Every sprint connects to the bigger picture. Every foundation brick is placed deliberately. We move fast not reckless, we've thought through the dependencies and have a plan to bring everyone along. No steps backward unless critical (see below).
+   **Foundations:** I'm ruthless about foundational thinking. We build frameworks, methodologies and systems that scale and adapt. Every sprint connects to the bigger picture. Every foundation brick is placed deliberately. We move fast, not reckless- we've thought through the dependencies and have a plan to bring everyone along. No steps backward unless critical (see below).
 
   **Pivot Fast:** No sacred cows. New information == new direction. I'll work tirelessly when we have deep conviction on an audacious idea but will pivot so fast it can feel like whiplash for those not used to it when something obviously better/wrong is brought to surface. Part of building is learning. If we need to change course we trim the sails fast. Sunk cost/time/past decisions have no relevance. But we're not chasing perfect. Good enough is often good enough. MVP and iterate.
 
@@ -38,17 +38,17 @@ This exists to help collaborators, founders, and future partners get a sense of 
 
   **Short Meetings, Long Emails:** Expect short meetings for tactical things. Turns out a lot can get done in 15min if everyone is engaged (but expect very long macro strategy sessions). I will send long emails / whitepaper-style concepts from time to time, these are often strategic or conceptual blueprints and I assume everyone will make time to digest.
 
-  **Blamestorming:** We'll only talk about the past enough to repeat successes or not repeat failures. Identify root cause and fault only to learn, not criticise. The only thing that matters is what comes next. The most important day of our lives is today. You're on my team for a reason. You're smart and capable. If there's a problem we're going to talk about it in near real-time. I'll never ambush you with a list of long-past wrongs and expect the same in return. Otherwise, plan for success and move forward.
+  **Blamestorming:** We'll only talk about the past enough to repeat successes or not repeat failures. Identify root cause and fault only to learn, not criticize. The only thing that matters is what comes next. The most important day of our lives is today. You're on my team for a reason. You're smart and capable. If there's a problem we're going to talk about it in near real-time. I'll never ambush you with a list of long-past wrongs and expect the same in return. Otherwise, plan for success and move forward.
 
   **Disagree:** A mentor once told me: "you're not doing your job unless you're regularly disagreeing with me". Discourse is foundational to high quality outcomes. Poke holes in things and look for risk upfront. Verification is not mistrust.
 
   **Work/Life Harmony** Balance is BS. Harmony is everything. Email ≠ Emergency. I send when convenient, you respond when ready. No nights/weekends expected. If it's actually urgent, I'll call/text. You reciprocate.
 
-  **Building Humans:** We're not just building whatever it is we're building. We're building ourselves and each other. This is not the last place you'll work and our collective job is to help each other grow and achieve our professional and personal goals together. It's my responsibility to be an encouraging mentor that listens and helps you acheive your goals.
+  **Building Humans:** We're not just building whatever it is we're building. We're building ourselves and each other. This is not the last place you'll work and our collective job is to help each other grow and achieve our professional and personal goals together. It's my responsibility to be an encouraging mentor that listens and helps you achieve your goals.
   
   **Family First:** Always. Even if you're a family of one. We support the success of one another in work AND in life. Guess what? There's time for life no matter how big of a thing you're working on. When we foster better friendships, time with loved ones, kids, or to pursue life passions... we come back to each other at work a better version, with new perspectives and new ideas. There's always time.
 
-// "HUMAN > TECH" is my philosophy of a human first approach for any/everything I expect everyone to apply. Everyone is building or working on something that, even if a few degress removed, impacts another person at the end of the HUMAN<>HUMAN chain.
+// "HUMAN > TECH" is my philosophy of a human first approach for any/everything I expect everyone to apply. Everyone is building or working on something that, even if a few degrees removed, impacts another person at the end of the HUMAN<>HUMAN chain.
 
 ## Things to Know If You Work For Me
 
@@ -113,6 +113,7 @@ My lifetime dogma:
 - [ThinkPurple](https://www.thinkpurple.io) – Speaking, Consulting & Advisory
 - DM me on [GitHub](https://github.com/alexlstanton) or via LinkedIn
 - mailto:alex@thinkpurple.io
+- Once you know me, call/text/WhatsApp anytime.
 
 
 P.S. Thanks to @juliedavila for early README.md inspiration.
