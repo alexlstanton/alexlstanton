@@ -57,7 +57,7 @@ This exists to help collaborators, founders, and future partners get a sense of 
    - My most productive time is in the early AM where I read and consume and think.
    - I'll be off camera for long calls unless we have something to present or serious to discuss. (I pace when I think.)
    - I prefer chat to emails for internal comms and may reply in batches.
-   - I like most discussions to be in Channels or Teams, not ad-hoc chats so everyone can contribute/learn. Tag me if I need to see it.
+   - I like most discussions to be in Channels or Teams, not ad-hoc chats, so everyone can contribute/learn. Tag me if I need to see it.
    - If you need something in the moment call me. I love it when people just pick up the phone. Call me old fashioned.
    - You're never bothering me. Ever. My job is to make you successful.
    - I trust by default. But verify often.
