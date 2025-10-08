@@ -1,5 +1,10 @@
 # 👋 Hello World. I'm Alex. 
 
+**Currently Working On**
+- NANDA Commercial Adoption, the Agentic Web Should Be Open
+- A2AS-Reflexive - Metacongnative and sub-persona design inspired by the working paper
+- Identity for Agentic systems (DIF++)
+
 **Technologist | Founder | Strategic Leader | Human**
 
 I like to dream, design and then actually build shit. Everything Digital. Physical stuff. Teams. Businesses that make lots of money and Non-Profits that improve my community.
