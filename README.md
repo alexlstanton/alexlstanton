@@ -2,7 +2,7 @@
 
 **Currently Working On**
 - NANDA Commercial Adoption... the Agentic Web should be open.
-- A2AS-Reflexive... Metacongnative and sub-persona single-context agent design inspired by the working paper & agentgateway
+- A2AS-Reflexive... Metacongnative AI and sub-persona single-context agent design inspired by the working paper & agentgateway
 - Identity for Agentic systems (DIF++)
 
 **Technologist | Founder | Strategic Leader | Human**
