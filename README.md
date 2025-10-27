@@ -9,7 +9,7 @@
 
 I like to dream, design and then actually build shit. Everything Digital. Physical stuff. Teams. Businesses that make lots of money and Non-Profits that improve my community.
 
-Started in early 2000s LAMP stack dev, did cloud and cybersecurity before it was cool. Accidentally built an MSP that became a MSSP and rolled it into a national PE-backed platform. Now advise startups, preach on cybersecurity and business culture (yes, they can be synergistic. yes, I used synergistic). Exploring the future of AI and Innovation leadership.
+Started in early 2000s LAMP stack dev, did cloud and cybersecurity before it was cool. Accidentally built an MSP that became a MSSP and rolled it into a national PE-backed platform. Accepted the corporate CTO/CIO role and spent three years building out the second largest MSP/MSSP Platform in North America, heavily involved in M&A pipeline and integration, with responsibility for 25 OpCos, 1200 employees, doing $250M top-line. That's responsibility for IT and cybersecurity for 5000 SME's and their 120K+ end users by the time I left. Now advise startups, preach on cybersecurity and business culture (yes, they can be synergistic. yes, I used synergistic). Exploring the future of AI and Innovation leadership.
 
 This exists to help collaborators, founders, and future partners get a sense of how I work, my values, and how to best engage with me— professionally and personally.
 
