@@ -2,8 +2,9 @@
 
 **Currently Working On**
 - NANDA Commercial Adoption... the Agentic Web should be open.
-- A2AS-Reflexive... Metacongnative AI and sub-persona single-context agent design inspired by the working paper & agentgateway
-- Identity for Agentic systems (DIF++)
+- Reflexive-Core... Metacongnative AI and sub-persona single-context agent design inspired by the original A2AS working paper & agentgateway
+- Center for Intelligent Industrial Robots at University of Idaho. What if the next wave of breakthroughs and investment in industrial intelligence happened... in Idaho?
+- Stealth. Because every real Founder needs a project they could tell you about... but then, unless you sign the back-dated NDA, they would have kill you.
 
 **Technologist | Founder | Strategic Leader | Human**
 
